@@ -5,6 +5,10 @@
 	font-family: 'Merriweather Sans', sans-serif;
 }
 
+.first-section {
+	text-align: center;
+}
+
 h3 strong {
 	color: red;
 	margin-right: 15px
@@ -16,4 +20,12 @@ h3 {
 
 a {
 	color: black;
+}
+
+.navbar-collapse {
+	padding-left: 80px;
+}
+
+.first-col .second-col .third-col .fourth-col {
+	width: 100%;
 }
